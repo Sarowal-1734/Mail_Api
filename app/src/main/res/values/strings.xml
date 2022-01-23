@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mail Api</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sender_name">Sender name</string>
+    <string name="date">Date</string>
+    <string name="body">Body</string>
+    <string name="email_ex_username123">Email (ex: username123)</string>
+    <string name="password">Password</string>
+    <string name="loading">Loading</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="email_ex_username123_domain">Email (ex: username123@domain)</string>
+    <string name="all_inboxes">ALL INBOXES</string>
+    <string name="logout">Logout</string>
+    <string name="subject">Subject</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="or">or</string>
+</resources>
